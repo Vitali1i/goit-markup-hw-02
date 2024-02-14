@@ -1,11 +1,13 @@
 body {
-  font-family: "Roboto", "Raleway", "sans-serif";
+  font-family: "Roboto", "sans-serif";
   color: #2e2f42;
   background: #fff;
 }
 a {
   text-decoration: none;
 }
+
+/* =================header =======================*/
 ul,
 ol {
   list-style: none;
@@ -21,7 +23,6 @@ button {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #4d5ae5;
 }
 .logo-part {
   color: #2e2f42;
@@ -30,7 +31,6 @@ button {
   color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
-  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -51,3 +51,90 @@ button {
 .address-link:focus {
   color: #404bbf;
 }
+/* =================header end =======================*/
+/* =================section hero =======================*/
+.hero {
+  background-color: #2e2f42;
+}
+.title-main {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+.btn {
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+}
+.btn:hover,
+.btn:focus {
+  background-color: #404bbf;
+}
+/* =================section hero end=======================*/
+/* =================section our-benef =======================*/
+.benef-lists {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.benef-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* =================section our-benef end=======================*/
+/* =================section our-team =======================*/
+.our-team {
+  background-color: #f4f4fd;
+}
+.team-heading {
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
+}
+.our-team li {
+  background-color: #ffffff;
+}
+.team-member {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+.team-role {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+/* =================section our-team end=======================*/
+/* =================section our-portfolio=======================*/
+/* =================section footer=======================*/
+.log-part-footer {
+  color: #f4f4fd;
+}
+.footer {
+  background: #2e2f42;
+}
+.footer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+/* =================section footer end=======================*/
