@@ -121,8 +121,13 @@ button {
   text-align: center;
   color: #434455;
 }
+.member-list {
+  background: #fff;
+}
 /* =================section our-team end=======================*/
 /* =================section our-portfolio=======================*/
+
+/* =================section our-portfolio end=======================*/
 /* =================section footer=======================*/
 .log-part-footer {
   color: #f4f4fd;
