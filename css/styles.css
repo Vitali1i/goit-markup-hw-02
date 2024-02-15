@@ -1,6 +1,6 @@
 body {
-  font-family: "Roboto", "sans-serif";
-  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
   background: #fff;
 }
 a {
@@ -92,6 +92,7 @@ button {
   color: #434455;
 }
 /* =================section our-benef end=======================*/
+
 /* =================section our-team =======================*/
 .our-team {
   background-color: #f4f4fd;
@@ -126,7 +127,17 @@ button {
 }
 /* =================section our-team end=======================*/
 /* =================section our-portfolio=======================*/
-
+.serv-list {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.serv-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
 /* =================section our-portfolio end=======================*/
 /* =================section footer=======================*/
 .log-part-footer {
