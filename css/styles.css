@@ -83,6 +83,7 @@ button {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .benef-text {
   font-weight: 400;
@@ -103,6 +104,7 @@ button {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
+  color: #2e2f42;
 }
 .our-team li {
   background-color: #ffffff;
@@ -113,6 +115,7 @@ button {
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
+  color: #2e2f42;
 }
 .team-role {
   font-weight: 400;
@@ -127,17 +130,22 @@ button {
 }
 /* =================section our-team end=======================*/
 /* =================section our-portfolio=======================*/
+.our-portfolio {
+  color: #2e2f42;
+}
 .serv-list {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .serv-text {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
+
 /* =================section our-portfolio end=======================*/
 /* =================section footer=======================*/
 .log-part-footer {
